@@ -1,6 +1,3 @@
-<!--
-**ilbey-ikiz/ilbey-ikiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there 👋
 
 
@@ -13,9 +10,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/%C3%B6mer-ilbey-ikiz-b0a491208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneskurt" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ikizilbey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesskurtt96" height="30" width="40" /></a>
-<a href="https://medium.com/@ilbeyikiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eneskurt1996" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%C3%B6mer-ilbey-ikiz-b0a491208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilbeyikiz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ikizilbey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikizilbey" height="30" width="40" /></a>
+<a href="https://medium.com/@ilbeyikiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ilbeyikiz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
